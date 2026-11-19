@@ -18,6 +18,6 @@ Patient-level clinical reports and adjudication data are not publicly available 
 
 ## Associated Manuscript
 
-*Building an auditable reference standard for clinical information extraction: a two-institution study of intraoperative transesophageal echocardiography reports.*
+*Building an Auditable Reference Standard for Clinical Information Extraction from Transesophageal Echocardiography Reports*
 
 Preprint and publication information will be added when available.
